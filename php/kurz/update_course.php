@@ -119,7 +119,7 @@
                 
                     <!-- Navbar Links -->
                     <div class="d-flex align-items-center">
-                        <button data-mdb-ripple-init type="button" class="btn btn-primary me-3" onclick="location.href='../admin_dash.php'">(Admin) Dashboard</button>
+                        <button data-mdb-ripple-init type="button" class="btn btn-primary me-3" onclick="location.href='../dashes/admin_dash.php'">(Admin) Dashboard</button>
                     </div>
                 
                 </div>
